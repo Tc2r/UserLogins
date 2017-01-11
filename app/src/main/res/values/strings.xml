@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">User Logins</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="et_username_here">Username Here</string>
+    <string name="age">Age</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register_here">Register Here</string>
+    <string name="logout">Logout</string>
+    <string name="btn_register">Register</string>
+</resources>
